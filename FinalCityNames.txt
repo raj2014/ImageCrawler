@@ -1,0 +1,100 @@
+Orlando,US
+Sydney,Australia
+Paris,France
+London,England
+Venice,Italy
+Manhattan,US
+Cape Town,South Africa
+Las Vegas,US
+Rome,Italy
+Easter Island,Chile
+Maldives
+Hawaii,US
+Crete,Greece
+Grand Canyon,US
+San Diego,US
+Niagara Falls,Canada
+San Francisco,US
+Rio de Janeiro, RJ, Brazil
+Los Angeles,US
+Dubai,UAE
+Auckland,New Zealand
+Singapore
+Puerto Rico
+Bali,Indonesia
+Durban,South Africa
+Bangkok,Thailand
+Iceland
+WhitSundays,Australia
+Costa Del Sol,Spain
+Cairns,Australia
+Budapest
+Melbourne,Australia
+Mallorca,Spain
+Giza,Egypt
+Lake District,England
+Cambodia
+Ho Chi Minh City, Vietnam
+Copenhagen
+Sharm El Sheikh ,Egypt
+New York,US
+Madrid,Spain
+Zermatt,Switzerland
+Algarve,Portugal
+Victoria Falls,Zimbabwe
+Marbella,Spain
+St. Petersburg, Russia
+Vienna, Austria
+Chichen Itza,Mexico
+Florence,Italy
+Disney World,Florida,US
+Puerto Banus,Spain
+Toronto,Canada
+China
+Agra,India
+Edinburgh,Scotland
+Menorca,Spain
+Istanbul, Turkey
+Luxor
+Hong Kong
+Banff,Canada
+Sorrento,Italy
+Key West,US
+Cancun, QR, Mexico
+Koh Samui,Thailand
+Nice,France
+Machu Picchu,Peru
+Yosemite National Park,US
+Oahu,US
+Florida Keys,US
+Rapa nui
+Dublin,Ireland
+Vancouver,Canada
+Blue Mountains, NSW, Australia
+Hawaii
+Naples,Italy
+St Pete Beach,US
+Bondi Beach, Sydney, NSW
+Barcelona, Spain
+Ibiza,Spain
+Montreal,Canada
+Costa Blanca,Spain
+Adelaide,Australia
+Airlie Beach,Australia
+Buenos Aires,Argentina
+Prague,Czech Republic
+Lisbon, Portugal
+Cuba
+Cyprus
+Costa Rica
+Ecuador
+Bogota,Columbia
+Kusadasi,Turkey
+Chamonix,France
+Beijing,China
+Cannes,France
+Amsterdam,Netherlands
+Bodrum,Turkey
+Courchevel,France
+Berlin,Germany
+Corfu,Greece
